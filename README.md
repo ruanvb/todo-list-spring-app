@@ -1,6 +1,6 @@
 # Projeto Todo-List com Java, Spring Boot e Maven ☕️🌱
 
-<img src="https://spring.io/img/spring-2.svg" width="100px" height="80px">
+<img src="https://spring.io/img/spring-2.svg" width="200px" height="80px">
 
 Projeto Todo-List desenvolvido com Java, Spring Boot e Maven! Este é um projeto de estudo que visa criar uma aplicação de lista de tarefas com recursos de autenticação de usuários e integração com um banco de dados SQL Server hospedado no AWS RDS. 🚀
 
