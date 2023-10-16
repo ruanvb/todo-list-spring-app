@@ -1,0 +1,11 @@
+br\com\ruanbento\todolist\task\TaskModel.class
+br\com\ruanbento\todolist\utils\Utils.class
+br\com\ruanbento\todolist\user\UserDAO.class
+br\com\ruanbento\todolist\task\TaskDAO.class
+br\com\ruanbento\todolist\TodolistApplication.class
+br\com\ruanbento\todolist\user\UserController.class
+br\com\ruanbento\todolist\user\UserRepository.class
+br\com\ruanbento\todolist\filter\FilterTaskAuth.class
+br\com\ruanbento\todolist\task\TaskRepository.class
+br\com\ruanbento\todolist\user\UserModel.class
+br\com\ruanbento\todolist\task\TaskController.class
